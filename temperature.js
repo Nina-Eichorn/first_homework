@@ -20,6 +20,13 @@ fToC (72)
 
 cToF (13)
 
+//change so I could commit again
+let firstName = Nina
+
+function name () {
+    let name = firstName
+}
+
 
 
 
