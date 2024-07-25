@@ -35,8 +35,10 @@ function lname () {
 
 function address(){
     let adrs = avei;
+    console.log(adrs)
 }
 
+console.log (address())
 
 
 
