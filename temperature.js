@@ -20,12 +20,23 @@ fToC (72)
 
 cToF (13)
 
-//change so I could commit again
-let firstName = Nina
+//changes so I could commit again
+let firstName = Nina;
 
-function name () {
-    let name = firstName
+function fname () {
+    let fname = firstName;
 }
+
+let lastName = Eichorn;
+
+function lname () {
+    let lname = lastName;
+}
+
+
+
+
+
 
 
 
