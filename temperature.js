@@ -33,6 +33,10 @@ function lname () {
     let lname = lastName;
 }
 
+function address(){
+    let adrs = avei;
+}
+
 
 
 
