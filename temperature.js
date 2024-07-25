@@ -27,11 +27,6 @@ function fname () {
     let fname = firstName;
 }
 
-let lastName = Eichorn;
-
-function lname () {
-    let lname = lastName;
-}
 
 function address(){
     let adrs = avei;
